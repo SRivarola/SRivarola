@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=srivarola&label=Profile%20views&color=0e75b6&style=flat" alt="srivarola" /> </p>
 
-- 🔭 Actualmente estoy trabajando como tutor de React JS, y Javascript en CODERHOUSE **CODERHOUSE**
+- 🔭 Actualmente estoy trabajando como tutor de React JS, y Javascript en CODERHOUSE
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
