@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando como tutor de React JS, y Javascript en CODERHOUSE
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Me podes contactar en:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/santiago-rivarola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-rivarola" height="30" width="40" target='_blank'/></a>
 </p>
